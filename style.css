@@ -1,0 +1,151 @@
+.uz{
+    color: coral;
+}
+
+.h4 {
+    color: cornflowerblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
+
+h1 {
+    text-align: center;
+    color: crimson;
+    border: 5px dotted yellow;
+    background-color: green;
+}
+
+.qozonkabob {
+    width: 400px;
+    height: 220px;
+    margin-left: 644px;
+    margin-top: -500px;
+   box-sizing: border-box;
+    border: 15px dashed aqua;
+}
+
+.osh {
+    width: 400px;
+    height: 200px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 15px dashed aqua;
+}
+
+.chuchvara {
+    width: 400px;
+    height: 220px;
+    margin-left: 1272px;
+    margin-top: -235px;
+    box-sizing: border-box;
+    border: 15px dashed aqua;
+}
+
+.link {
+    border:2px solid tan;
+    background-color: darkblue;
+}
+
+.ash {
+   padding-left: 140px;
+   font-size: 200%;
+}
+
+.kazan {
+    padding-left: 814px;
+    font-size: 200%;
+}
+
+.chuch {
+    padding-left: 1440px;
+    font-size: 200%;
+}
+
+.contact {
+    background-color: black dashed greenyellow;
+}
+
+.fab {
+    color: red;
+    font-size: 80px;
+}
+
+.fas  {
+    color:white ;
+    font-size: 80px;
+}
+
+.ooo {
+    border: 5px dashed black ;
+}
+
+.contact{
+    border: 3px solid black;
+    background-color: gray;
+}
+
+.telegram a{
+    text-decoration: none;
+}
+
+.tiktok{
+    text-decoration: none;
+}
+
+.instagram{
+    text-decoration: none;
+}
+
+.ggg {
+  display: flex;
+  justify-content: space-around;  
+}
+
+.ddd {
+    border: 5px dashed aqua ;
+    width: 300px;
+    margin: auto;
+    padding: 100px;
+    text-align: center;
+    background-color: brown;
+}
+
+.aaa {
+    border: 5px dashed aqua;
+    width: 300px;
+    margin: auto;
+    padding: 100px;
+    text-align: center;
+    background-color: brown;
+}
+
+.ccc{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.ash a {
+    text-decoration: none;
+    color:crimson;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.kazan a{
+    text-decoration: none ;
+    color:crimson;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.chuch a{
+    text-decoration: none;
+    color:crimson;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: bisque;
+    border: 6px dotted aqua;
+    background-color: red;
+}
